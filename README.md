@@ -1,6 +1,6 @@
 # throw-dice
 
-This is the throw-dice project. This is for throwing dice for roleplaing purposes.
+This is the throw-dice project. This is for throwing dice for roleplaying purposes.
 
 The base is Reagent template, just because it felt the simplest and fastest today.
 
